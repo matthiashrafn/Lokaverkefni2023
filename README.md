@@ -32,6 +32,6 @@ Og það er allt sem við gerðum við höfum ekki myndband eða kóðann fyrir 
 
 [Linkur á myndband](https://youtube.com/shorts/TIAmYI18pQ8)
 
-[<img src="https://github.com/matthiashrafn/Lokaverkefni2023/assets/129166867/4b3a28be-97b3-4fe1-bcea-83f34295ca6f" width="50%" height="50%">]
+<img src="https://github.com/matthiashrafn/Lokaverkefni2023/assets/129166867/4b3a28be-97b3-4fe1-bcea-83f34295ca6f" width="50%" height="50%">
 
 
