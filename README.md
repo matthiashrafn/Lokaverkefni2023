@@ -36,8 +36,8 @@ Og það er allt sem við gerðum við höfum ekki myndband eða kóðann fyrir 
 
 <img src="https://github.com/matthiashrafn/Lokaverkefni2023/assets/129166867/b218bcba-2523-4067-b4c6-b53006dcd505" width="50%" height="50%">
 
-<img src="(https://github.com/matthiashrafn/Lokaverkefni2023/assets/129166867/89ab45c8-a31c-4ef4-8799-d046f8f4ec71)" width="50%" height="50%">
+<img src="https://github.com/matthiashrafn/Lokaverkefni2023/assets/129166867/89ab45c8-a31c-4ef4-8799-d046f8f4ec71" width="50%" height="50%">
 
-<img src="(https://github.com/matthiashrafn/Lokaverkefni2023/assets/129166867/22eb0301-0b31-4545-a691-c79b9dca640e)" width="50%" height="50%">
+<img src="https://github.com/matthiashrafn/Lokaverkefni2023/assets/129166867/22eb0301-0b31-4545-a691-c79b9dca640e" width="50%" height="50%">
 
-<img src="(https://github.com/matthiashrafn/Lokaverkefni2023/assets/129166867/0ce76beb-3f32-4b0f-90bc-e0240575bc15)" width="50%" height="50%">
+<img src="https://github.com/matthiashrafn/Lokaverkefni2023/assets/129166867/0ce76beb-3f32-4b0f-90bc-e0240575bc15" width="50%" height="50%">
